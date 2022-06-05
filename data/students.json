@@ -1,0 +1,16 @@
+[{
+    "id": 1,
+    "name": "Sabbir Hos",
+    "age": 23,
+    "skill": "Full Stack Developer"
+}, {
+    "id": 2,
+    "name": "Mamun islam",
+    "age": 23,
+    "skill": "Full Stack Developer"
+}, {
+    "id": 3,
+    "name": "Humayun vai",
+    "age": 23,
+    "skill": "Full Stack Developer"
+}]
